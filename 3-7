@@ -28,7 +28,7 @@
   <div class="result" id="result"></div>
 
   <script>
-    const expectedURL = "https://kumho.school.3-7.com/";
+    const expectedURL = "https://kumhoschool.netlify.app/";
 
     const currentURL = window.location.href;
 
@@ -42,3 +42,4 @@
   </script>
 </body>
 </html>
+
