@@ -29,7 +29,6 @@
 
   <script>
     const expectedURL = "https://kumhoschool.netlify.app/";
-
     const currentURL = window.location.href;
 
     const resultEl = document.getElementById("result");
@@ -42,4 +41,3 @@
   </script>
 </body>
 </html>
-
